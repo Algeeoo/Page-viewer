@@ -22,4 +22,3 @@ while count < 100:
 
 else:
     pass
-
